@@ -11,8 +11,8 @@ Make sure you have Python and pip installed on your system. If not, you can down
 First, clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/martimfasantos/FantasyFootballManager.git
+cd FantasyFootballManager/
 ```
 
 ### Step 2: Create a Virtual Environment
@@ -20,7 +20,7 @@ cd <repository_name>
 It's recommended to use a virtual environment to isolate your project dependencies. Navigate to the project directory and create a virtual environment:
 
 ```bash
-cd <repository_name>
+cd FantasyFootballManager/
 python -m venv env
 ```
 
